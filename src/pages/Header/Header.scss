@@ -1,0 +1,15 @@
+@import '../../sass/abstracts/variables';
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; 
+    background-color: $secondary-color;
+
+    margin: 0 auto;
+
+    h1{
+        color: white;
+    }
+}

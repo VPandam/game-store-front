@@ -1,0 +1,20 @@
+.game-list{
+    width: 55%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px auto;
+    margin-bottom: 300px;
+    justify-content: center;
+
+    li{
+        width: 300px;
+        img{
+            width: 100%;
+        }
+h1{
+    text-align: center;
+}
+        margin-top: 20px;
+    }
+}
